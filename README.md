@@ -1,2 +1,1 @@
-# hola-mundo-
-programación de computadores 
+programacion 
